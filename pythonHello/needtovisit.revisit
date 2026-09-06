@@ -1,0 +1,13 @@
+Recursion
+*args & **kwargs
+first class function
+
+explain
+def make_multiplier(n):
+    def multiplier(x):
+        return x * n
+    return multiplier
+double = make_multiplier(2)
+print(double(5))
+
+
