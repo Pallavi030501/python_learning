@@ -1,0 +1,3 @@
+2026-09-06 let create a file and write and read and explore 
+2026-09-06
+  >let create a file and write and read and explore
